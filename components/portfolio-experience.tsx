@@ -136,7 +136,7 @@ function Hero() {
               Explore My Infrastructure
               <ChevronRight size={18} />
             </LinkButton>
-            <LinkButton href="#resume" variant="glass" size="lg">
+            <LinkButton href="/resume/FINAL_RESUME.pdf" target="_blank" rel="noreferrer" variant="glass" size="lg">
               View Resume
               <Download size={18} />
             </LinkButton>
