@@ -43,7 +43,7 @@ export const profile = {
   github: "https://github.com/Prakhar1980",
   leetcode: "https://leetcode.com/Prakhar1980",
   summary:
-    "IEEE-published researcher and Full Stack Developer with 2 production-grade applications deployed and actively running, built using React.js, Node.js, TypeScript, and Socket.IO. Designed systems featuring sub-200ms WebSocket latency, RBAC-secured APIs, and dual-database architectures."
+    "IEEE-published researcher and Full Stack Developer with 2 production-grade applications deployed and actively running, built using React.js, Node.js, TypeScript, and Socket.IO. Designed systems featuring real-time communication, RBAC-secured APIs, and dual-database architectures."
 };
 
 export const contactLinks = [
@@ -66,7 +66,7 @@ export const infrastructureNodes: InfrastructureNode[] = [
     color: "#49f5d7",
     summary:
       "AI-powered real-time customer support platform with automated AI-to-human ticket escalation, Admin/Agent/User roles, and RBAC-secured APIs.",
-    metrics: ["sub-200ms WebSocket latency", "40% faster ticket resolution", "50+ UAT scenarios"],
+    metrics: ["real-time WebSocket workflows", "AI-to-human escalation", "50+ UAT scenarios"],
     stack: ["Node.js", "Express.js", "React.js", "TypeScript", "MongoDB", "Socket.IO", "JWT", "RBAC"],
     links: [
       { label: "Live Demo", href: "https://agentraxsync.onrender.com/" },
@@ -126,7 +126,7 @@ export const infrastructureNodes: InfrastructureNode[] = [
     color: "#b0ff7a",
     summary:
       "Road safety prediction analytics, AI support workflows, Python data validation, NumPy/SciPy analysis, and generative AI fundamentals.",
-    metrics: ["25% data accuracy lift", "prediction analytics", "AI escalation workflows"],
+    metrics: ["data validation pipelines", "prediction analytics", "AI escalation workflows"],
     stack: ["Python", "NumPy", "SciPy", "SQL", "Generative AI", "ML basics"]
   },
   {
@@ -165,7 +165,7 @@ export const projects = [
       "Production-deployed real-time support platform using Node.js, React.js, TypeScript, MongoDB, and Socket.IO.",
     details: [
       "Automated AI-to-human escalation with RBAC and JWT across Admin, Agent, and User roles.",
-      "Sub-200ms WebSocket latency under concurrent load after resolving event-driven concurrency issues.",
+      "Real-time WebSocket communication with structured handling for event-driven concurrency.",
       "Express.js REST APIs following MVC and OOP principles, validated through Postman collections."
     ],
     stack: ["Node.js", "Express.js", "React.js", "TypeScript", "MongoDB", "Socket.IO", "JWT", "RBAC"],
@@ -244,7 +244,7 @@ export const timeline = [
     stop: "Data Analysis Training",
     date: "Jun 2023 - Jul 2023",
     icon: Database,
-    text: "Analyzed IoT energy datasets with Python, NumPy, SciPy, and SQL; improved data accuracy by 25% through validation, outlier removal, and root cause analysis."
+    text: "Analyzed IoT energy datasets with Python, NumPy, SciPy, and SQL through validation, outlier removal, and root cause analysis."
   },
   {
     stop: "IEEE Student Chapter",

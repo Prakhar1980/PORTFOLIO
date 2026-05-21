@@ -412,7 +412,7 @@ function ContactTerminal() {
       contact: [`Email: ${profile.email}`, `Phone: ${profile.phone}`, `Location: ${profile.location}`, profile.linkedin],
       resume: [
         "Resume route opened in-page at #resume.",
-        "Highlights: IEEE publication, NPTEL Top 1%, 2 production apps, 150+ LeetCode, sub-200ms WebSockets."
+        "Highlights: IEEE publication, NPTEL Top 1%, 2 production apps, 150+ LeetCode, and real-time WebSocket workflows."
       ],
       github: [profile.github],
       linkedin: [profile.linkedin],
