@@ -241,7 +241,7 @@ export const timeline = [
     text: "B.E. Computer Science and Engineering, CGPA 8.05 / 10.0. Coursework: DSA, DBMS, OS, Computer Networks, OOP, Software Engineering."
   },
   {
-    stop: "Data Analysis Intern",
+    stop: "Data Analysis Training",
     date: "Jun 2023 - Jul 2023",
     icon: Database,
     text: "Analyzed IoT energy datasets with Python, NumPy, SciPy, and SQL; improved data accuracy by 25% through validation, outlier removal, and root cause analysis."
@@ -320,8 +320,8 @@ export const certifications = [
 export const achievements = [
   "2 production-grade applications deployed and actively running",
   "150+ LeetCode problems solved",
-  "40% reduction in ticket resolution time",
-  "25% improvement in data accuracy",
-  "Sub-200ms WebSocket latency under concurrent load",
+  "RBAC-secured full-stack application architecture",
+  "Real-time WebSocket workflow implementation",
+  "Data validation and analytics pipeline experience",
   "IEEE Xplore research publication"
 ];

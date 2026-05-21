@@ -358,8 +358,8 @@ function ResumeSection() {
               <p><strong className="text-white">Chandigarh University, Mohali, Punjab</strong> - B.E. Computer Science and Engineering, CGPA 8.05 / 10.0, Aug 2022 - Jun 2026.</p>
               <p><strong className="text-white">Sardar Ballav Patel School, Patna</strong> - Class XII Science, 72.8%.</p>
               <p><strong className="text-white">Himalayan Residential School, Patna</strong> - Class X, 71.5%.</p>
-              <p><strong className="text-white">Data Analysis Intern</strong> - Chandigarh University Energy Systems Lab, Jun 2023 - Jul 2023.</p>
-              <p><strong className="text-white">Blockchain Developer Intern</strong> - Metacrafters via Chandigarh University Partnership, Jun 2024 - Aug 2024.</p>
+              <p><strong className="text-white">Data Analysis Training Program</strong> - Chandigarh University Energy Systems Lab, Jun 2023 - Jul 2023.</p>
+              <p><strong className="text-white">Blockchain Training Program</strong> - Metacrafters via Chandigarh University Partnership, Jun 2024 - Aug 2024.</p>
               <p><strong className="text-white">Research</strong> - IEEE Xplore publication on robotic process automation for public-service efficiency.</p>
             </div>
           </div>
