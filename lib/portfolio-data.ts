@@ -286,7 +286,7 @@ export const timeline = [
     stop: "Job Ready",
     date: "Now",
     icon: TerminalSquare,
-    text: "150+ LeetCode problems solved across arrays, strings, trees, graphs, dynamic programming, and sliding window."
+    text: "500+ LeetCode problems solved across arrays, strings, trees, graphs, dynamic programming, and sliding window."
   }
 ];
 
