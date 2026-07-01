@@ -129,7 +129,7 @@ function Hero() {
             {profile.tagline}
           </p>
           <p className="intro-token mt-5 max-w-xl text-lg leading-8 text-white/68">
-            {profile.title}. Recently graduated from Chandigarh University and started my professional software engineering career building full-stack web applications with React.js, Node.js, Express.js, MongoDB, and MySQL.
+            {profile.title}. Computer Science graduate from Chandigarh University, focused on building scalable full-stack web applications with React.js, Node.js, Express.js, MongoDB, and MySQL.
           </p>
           <div className="intro-token mt-8 flex flex-wrap gap-3">
             <LinkButton href="#map" size="lg">
@@ -358,7 +358,7 @@ function ResumeSection() {
               <p><strong className="text-white">Calibric</strong> - Associate Software Development Engineer, Full-time, Jul 2026 - Present.</p>
               <p>Developing and maintaining full-stack web applications, building REST APIs using Node.js and Express.js, working with React.js on the frontend, integrating MongoDB/MySQL databases, writing clean and scalable code, and collaborating with team members using Git and Agile practices.</p>
               <p><strong className="text-white">Chandigarh University, Mohali, Punjab</strong> - B.E. Computer Science and Engineering, CGPA 8.05 / 10.0, Aug 2022 - Jun 2026.</p>
-              <p>Recently graduated from Chandigarh University and currently working as an Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications.</p>
+              <p>Computer Science graduate from Chandigarh University, currently working as an Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications.</p>
               <p><strong className="text-white">Sardar Ballav Patel School, Patna</strong> - Class XII Science, 72.8%.</p>
               <p><strong className="text-white">Himalayan Residential School, Patna</strong> - Class X, 71.5%.</p>
               <p><strong className="text-white">Data Analysis Training Program</strong> - Chandigarh University Energy Systems Lab, Jun 2023 - Jul 2023.</p>

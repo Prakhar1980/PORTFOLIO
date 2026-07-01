@@ -43,7 +43,7 @@ export const profile = {
   github: "https://github.com/Prakhar1980",
   leetcode: "https://leetcode.com/Prakhar1980",
   summary:
-    "Recently graduated Computer Science engineer from Chandigarh University and Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications with React.js, Node.js, Express.js, MongoDB, and MySQL."
+    "Computer Science graduate from Chandigarh University and Associate Software Development Engineer at Calibric, focused on building scalable full-stack web applications with React.js, Node.js, Express.js, MongoDB, and MySQL. Driven by clean engineering, continuous learning, and practical product impact."
 };
 
 export const contactLinks = [
