@@ -129,7 +129,7 @@ function Hero() {
             {profile.tagline}
           </p>
           <p className="intro-token mt-5 max-w-xl text-lg leading-8 text-white/68">
-            {profile.title}. IEEE-published researcher building real-time, RBAC-secured, production-grade systems with React, Node.js, TypeScript, and Socket.IO.
+            {profile.title}. Recently graduated from Chandigarh University and started my professional software engineering career building full-stack web applications with React.js, Node.js, Express.js, MongoDB, and MySQL.
           </p>
           <div className="intro-token mt-8 flex flex-wrap gap-3">
             <LinkButton href="#map" size="lg">
@@ -355,7 +355,10 @@ function ResumeSection() {
           <div className="glass rounded-[30px] p-7">
             <h3 className="font-display text-3xl font-bold">Education & Experience</h3>
             <div className="mt-6 space-y-5 text-white/72">
+              <p><strong className="text-white">Calibric</strong> - Associate Software Development Engineer, Full-time, Jul 2026 - Present.</p>
+              <p>Developing and maintaining full-stack web applications, building REST APIs using Node.js and Express.js, working with React.js on the frontend, integrating MongoDB/MySQL databases, writing clean and scalable code, and collaborating with team members using Git and Agile practices.</p>
               <p><strong className="text-white">Chandigarh University, Mohali, Punjab</strong> - B.E. Computer Science and Engineering, CGPA 8.05 / 10.0, Aug 2022 - Jun 2026.</p>
+              <p>Recently graduated from Chandigarh University and currently working as an Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications.</p>
               <p><strong className="text-white">Sardar Ballav Patel School, Patna</strong> - Class XII Science, 72.8%.</p>
               <p><strong className="text-white">Himalayan Residential School, Patna</strong> - Class X, 71.5%.</p>
               <p><strong className="text-white">Data Analysis Training Program</strong> - Chandigarh University Energy Systems Lab, Jun 2023 - Jul 2023.</p>
@@ -405,14 +408,14 @@ function ContactTerminal() {
     const normalized = command.trim().toLowerCase();
     const response: Record<string, string[]> = {
       "hire prakhar": [
-        "Status: available for software engineering, full-stack, and backend roles.",
+        "Status: Associate Software Development Engineer at Calibric, building full-stack web applications.",
         "Strengths: Node.js, React, TypeScript, REST APIs, WebSockets, RBAC, MongoDB, MySQL.",
         `Email: ${profile.email} | Phone: ${profile.phone}`
       ],
       contact: [`Email: ${profile.email}`, `Phone: ${profile.phone}`, `Location: ${profile.location}`, profile.linkedin],
       resume: [
         "Resume route opened in-page at #resume.",
-        "Highlights: IEEE publication, NPTEL Top 1%, 2 production apps, 150+ LeetCode, and real-time WebSocket workflows."
+        "Highlights: Associate Software Development Engineer at Calibric, Chandigarh University graduate, IEEE publication, NPTEL Top 1%, production-grade projects, and 150+ LeetCode problems."
       ],
       github: [profile.github],
       linkedin: [profile.linkedin],
@@ -532,7 +535,7 @@ export function PortfolioExperience() {
       <ResumeSection />
       <ContactTerminal />
       <footer className="border-t border-white/10 px-5 py-10 text-center text-sm text-white/45">
-        <p>Prakhar Kumar - Software Engineer building scalable digital infrastructure across India.</p>
+        <p>Prakhar Kumar - Associate Software Development Engineer at Calibric building scalable digital infrastructure across India.</p>
         <div className="mt-4 flex justify-center gap-4">
           <a href={profile.github} target="_blank" rel="noreferrer" className="hover:text-signal"><Github size={19} /></a>
           <a href={profile.linkedin} target="_blank" rel="noreferrer" className="hover:text-signal"><Linkedin size={19} /></a>

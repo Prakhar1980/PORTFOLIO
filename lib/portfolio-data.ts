@@ -33,7 +33,7 @@ export type InfrastructureNode = {
 
 export const profile = {
   name: "Prakhar Kumar",
-  title: "Software Engineer | Full Stack Developer | Backend Engineer",
+  title: "Associate Software Development Engineer at Calibric",
   tagline: "Building scalable digital infrastructure across India",
   location: "Mohali / Kharar, Punjab, India",
   relocation: "Open to relocation",
@@ -43,7 +43,7 @@ export const profile = {
   github: "https://github.com/Prakhar1980",
   leetcode: "https://leetcode.com/Prakhar1980",
   summary:
-    "IEEE-published researcher and Full Stack Developer with 2 production-grade applications deployed and actively running, built using React.js, Node.js, TypeScript, and Socket.IO. Designed systems featuring real-time communication, RBAC-secured APIs, and dual-database architectures."
+    "Recently graduated Computer Science engineer from Chandigarh University and Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications with React.js, Node.js, Express.js, MongoDB, and MySQL."
 };
 
 export const contactLinks = [
@@ -234,6 +234,12 @@ export const projects = [
 ];
 
 export const timeline = [
+  {
+    stop: "Calibric",
+    date: "Jul 2026 - Present",
+    icon: Rocket,
+    text: "Associate Software Development Engineer, full-time. Developing and maintaining full-stack web applications, building REST APIs with Node.js and Express.js, working with React.js, integrating MongoDB/MySQL databases, writing clean and scalable code, and collaborating with teams using Git and Agile practices."
+  },
   {
     stop: "Chandigarh University",
     date: "Aug 2022 - Jun 2026",
