@@ -357,7 +357,7 @@ function ResumeSection() {
             <div className="mt-6 space-y-5 text-white/72">
               <p><strong className="text-white">Calibric</strong> - Associate Software Development Engineer, Full-time, Jul 2026 - Present.</p>
               <p>Developing and maintaining full-stack web applications, building REST APIs using Node.js and Express.js, working with React.js on the frontend, integrating MongoDB/MySQL databases, writing clean and scalable code, and collaborating with team members using Git and Agile practices.</p>
-              <p><strong className="text-white">Chandigarh University, Mohali, Punjab</strong> - B.E. Computer Science and Engineering, CGPA 8.05 / 10.0, Aug 2022 - Jun 2026.</p>
+              <p><strong className="text-white">Chandigarh University, Mohali, Punjab</strong> - B.E. Computer Science and Engineering, CGPA 8.09 / 10.0, Aug 2022 - Jun 2026.</p>
               <p>Computer Science graduate from Chandigarh University, currently working as an Associate Software Development Engineer at Calibric. Passionate about full-stack development, learning new technologies, and building scalable web applications.</p>
               <p><strong className="text-white">Sardar Ballav Patel School, Patna</strong> - Class XII Science, 72.8%.</p>
               <p><strong className="text-white">Himalayan Residential School, Patna</strong> - Class X, 71.5%.</p>
