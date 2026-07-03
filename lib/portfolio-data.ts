@@ -244,7 +244,7 @@ export const timeline = [
     stop: "Chandigarh University",
     date: "Aug 2022 - Jun 2026",
     icon: GraduationCap,
-    text: "B.E. Computer Science and Engineering, CGPA 8.05 / 10.0. Coursework: DSA, DBMS, OS, Computer Networks, OOP, Software Engineering."
+    text: "B.E. Computer Science and Engineering, CGPA 8.09 / 10.0. Coursework: DSA, DBMS, OS, Computer Networks, OOP, Software Engineering."
   },
   {
     stop: "Data Analysis Training",
